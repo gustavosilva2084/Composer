@@ -1,0 +1,16 @@
+{
+    "name": "admin/composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gustavosilva",
+            "email": "sneiballmaluquin@gmail.com"
+        }
+    ],
+    "require": {}
+}
